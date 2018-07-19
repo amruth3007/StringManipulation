@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1474999710 source:c:\users\hareesh\desktop\string\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1475001648 source:c:\users\hareesh\desktop\string\main2.c
+
+1475001962 source:c:\users\hareesh\desktop\string\main1.c
+	<stdio.h>
+	<stdlib.h>
+
+1475004244 source:c:\users\hareesh\desktop\string\strcmpi.c
+	<stdio.h>
+	<stdlib.h>
+
+1475004275 source:c:\users\hareesh\desktop\string\strcmp.c
+	<stdio.h>
+	<stdlib.h>
+
+1475005222 source:c:\users\hareesh\desktop\string\strncmpi.c
+	<stdio.h>
+	<stdlib.h>
+
+1475006194 source:c:\users\hareesh\desktop\string\strchr.c
+	<stdio.h>
+	<stdlib.h>
+
+1475006545 source:c:\users\hareesh\desktop\string\strrchr.c
+	<stdio.h>
+	<stdlib.h>
+
